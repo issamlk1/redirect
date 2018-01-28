@@ -1,0 +1,20 @@
+{
+    "name": "redirect.shortcut",
+    "version": "0.0.1-a",
+    "description": "Simple plugin that help you to redirect to another page in js just type redirect(url)",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/issamlk1/redirect"
+    },
+    "keywords": [
+      "redirect",
+      "javascript",
+      "js"
+    ],
+    "author": "ISSAM ABBAS",
+    "contributors": [
+      "ISSAM ABBAS <admin@mlk1.com> (http://mlk1.com)"
+    ],
+    "license": "MIT"
+  }
